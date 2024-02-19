@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="WZ021tZ`E`Z;nZk:@JT4" x="0" y="0"><statement name="HANDLER"><block type="device_set_brightness" id="jTBIP[*P.:.LQ4W%UlF5"><value name="value"><shadow type="math_number_minmax" id="`]LU7B.)sJwM{hBT_fir"><mutation min="0" max="255" label="Value" precision="0"></mutation><field name="SLIDER">0</field></shadow></value><next><block type="device_set_brightness" id="m6Oc!O{-pN4$$lXA03.^"><value name="value"><shadow type="math_number_minmax" id="H~|K[fV,;B].lnZ4Apn`"><mutation min="0" max="255" label="Value" precision="0"></mutation><field name="SLIDER">255</field></shadow></value><next><block type="device_show_leds" id="|LcKO|967)++jOrIIt-q"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_set_brightness" id="~2!%kmICTnJCBB!yl0Jh"><value name="value"><shadow type="math_number_minmax" id="4.*[BU8ON{|sO)!-`|Pl"><mutation min="0" max="255" label="Value" precision="0"></mutation><field name="SLIDER">255</field></shadow></value><next><block type="device_set_brightness" id="T,B7;Z=aY^qb/UGwkE6="><value name="value"><shadow type="math_number_minmax" id="BxDvyz/z2q*q!;x*V||M"><mutation min="0" max="255" label="Value" precision="0"></mutation><field name="SLIDER">0</field></shadow></value></block></next></block></next></block></next></block></next></block></statement></block></xml>
